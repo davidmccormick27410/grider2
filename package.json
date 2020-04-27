@@ -1,0 +1,20 @@
+{
+  "name": "udemy-full-stack-2nd-attempt",
+  "version": "1.0.0",
+  "description": "https://rocky-shelf-95500.herokuapp.com/ | https://git.heroku.com/rocky-shelf-95500.git",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidmccormick27410/grider2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davidmccormick27410/grider2/issues"
+  },
+  "homepage": "https://github.com/davidmccormick27410/grider2#readme"
+}
