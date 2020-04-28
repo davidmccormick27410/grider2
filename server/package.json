@@ -7,15 +7,16 @@
     "node": "12.16.x",
     "npm": "6.x"
   },
- 
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "run": "nodemon index.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
+    "nodemon": "^2.0.3",
     "nvm": "0.0.4"
   }
 }
